@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <string>
-//#include"Stack.h"
 #include <stack>
 
 char bracketsOpen[3] = { '[','{','(' };
